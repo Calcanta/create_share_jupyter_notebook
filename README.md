@@ -4,6 +4,8 @@ Week 6 Final Assignment: Create and Share Your Jupyter Notebook
 - **Exercise 1: Create a Jupyter Notebook**
   Create a new Jupyter notebook called DataScienceEcosystem.ipynb
 ![1-notebook](https://github.com/Calcanta/create_share_jupyter_notebook/assets/61021081/8b9b3bea-1554-48c1-b972-366b00764530)
+![1-notebook_NotExecuted](https://github.com/Calcanta/create_share_jupyter_notebook/assets/61021081/3231f3c8-83cc-469f-9794-6056ee5b1cf8)
+
 
 - **Exercise 2: Create markdown cell with title of the notebook**
   ![2-title](https://github.com/Calcanta/create_share_jupyter_notebook/assets/61021081/c94ab7a0-8fe7-483c-b843-bb8dfb698e52)
